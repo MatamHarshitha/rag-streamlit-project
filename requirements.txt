@@ -1,13 +1,12 @@
 streamlit
 langchain
+langchain-community
+langchain-openai
 openai
 faiss-cpu
 pymupdf
 docx2txt
 pandas
 tiktoken
-
-# Note:
-Add open ai Api 
 
 
