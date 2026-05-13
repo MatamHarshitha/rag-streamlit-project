@@ -10,7 +10,7 @@ os.environ["TRANSFORMERS_OFFLINE"] = "1"
 
 
 
-def allDocs(path=r"D:\DocumentAgent\Documentloaders\docs"):
+def allDocs(path=r"Documentloaders\docs"):
     docs = []
 
     # PDF files
@@ -19,7 +19,7 @@ def allDocs(path=r"D:\DocumentAgent\Documentloaders\docs"):
         loader = PyMuPDFLoader(os.path.join(path, file))
         docs.extend(loader.load())
 
-    # DOCX files
+    # DOCX files 
     docx_files = ["Social Networking Application.docx"]
     for file in docx_files:
         loader = Docx2txtLoader(os.path.join(path, file))
