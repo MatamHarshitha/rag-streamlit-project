@@ -67,7 +67,6 @@ def allDocs():
 
     docs.extend(csv_loader.load())
 
-<<<<<<< HEAD
     return docs
 
 
@@ -103,6 +102,3 @@ def load_uploaded_document(file_path):
     text = "\n".join(doc.page_content for doc in docs)
 
     return text
-=======
-    return docs
->>>>>>> dd42c3673c03882262d828a1402bc5946e9bb94c
