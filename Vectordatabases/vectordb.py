@@ -25,6 +25,7 @@ def vectorstore():
 )
     
     return vectorstore
+<<<<<<< HEAD
 
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
@@ -34,6 +35,8 @@ def create_vectorstore(chunks):
         chunks,
         OpenAIEmbeddings()
     )
+=======
+>>>>>>> dd42c3673c03882262d828a1402bc5946e9bb94c
     
 
 
