@@ -1,0 +1,84 @@
+Malaria – Detailed Overview
+
+Introduction Malaria is a serious and potentially fatal infectious
+disease caused by Plasmodium parasites. It is transmitted primarily
+through the bite of infected female Anopheles mosquitoes. Despite being
+preventable and treatable, malaria remains one of the world’s most
+significant public health challenges, especially in tropical and
+subtropical regions.
+
+Causes and Parasite Types Malaria is caused by five major species of
+Plasmodium: 1. Plasmodium falciparum – most deadly and widespread in
+Africa. 2. Plasmodium vivax – common in Asia and Latin America, can
+cause relapses. 3. Plasmodium malariae – causes chronic infections. 4.
+Plasmodium ovale – found mainly in West Africa, can cause relapses. 5.
+Plasmodium knowlesi – zoonotic malaria found in Southeast Asia.
+
+Transmission Cycle The malaria transmission cycle involves: - The bite
+of an infected Anopheles mosquito. - Release of sporozoites into the
+human bloodstream. - Multiplication of parasites in the liver. -
+Infection of red blood cells, causing symptoms. - Another mosquito bites
+the infected person and carries the parasite forward.
+
+Alternative Transmission Routes: - Blood transfusions - Organ
+transplants - Shared needles - Congenital transmission (mother to baby)
+
+Symptoms of Malaria Symptoms typically appear 10–15 days after infection
+and may vary depending on the Plasmodium species.
+
+Common symptoms include: - High fever - Chills and intense sweating -
+Headache - Muscle and joint pain - Nausea, vomiting, and diarrhea -
+Fatigue and weakness
+
+Severe malaria symptoms include: - Severe anemia - Multi-organ failure -
+Cerebral malaria (affecting the brain) - Respiratory distress -
+Hypoglycemia - Seizures
+
+Risk Groups Certain populations are at higher risk: - Children under
+five - Pregnant women - Immunocompromised individuals - People living in
+or traveling to endemic regions - Refugee and displaced populations
+
+Prevention Strategies 1. Vector Control - Use of insecticide-treated
+mosquito nets (ITNs) - Indoor residual spraying (IRS) - Eliminating
+stagnant water where mosquitoes breed
+
+2.  Preventive Medication
+    -   Chemoprophylaxis for travelers
+    -   Intermittent preventive treatment for pregnant women (IPTp)
+    -   Seasonal malaria chemoprevention (SMC) for children
+3.  Personal Protection
+    -   Wearing long-sleeved clothing
+    -   Using mosquito repellents
+    -   Keeping doors and windows screened
+
+Diagnosis Malaria is diagnosed through: - Microscopic examination of
+blood smears - Rapid diagnostic tests (RDTs) - Polymerase chain reaction
+(PCR) testing for accurate species detection
+
+Treatment Treatment depends on the Plasmodium species and severity: -
+Artemisinin-based Combination Therapies (ACTs) – first-line treatment -
+Chloroquine (where resistance is low) - Primaquine for preventing
+relapses of P. vivax and P. ovale - Intravenous artesunate for severe
+malaria
+
+Drug resistance, especially to artemisinin, is a growing concern and
+requires continuous monitoring.
+
+Complications If not treated promptly, malaria can cause: - Cerebral
+malaria - Organ failure (liver, kidneys) - Severe respiratory distress -
+Metabolic acidosis - Coma and death
+
+Global Burden - Every year, over 200 million cases are reported
+globally. - More than 600,000 malaria-related deaths occur annually. -
+Sub-Saharan Africa carries over 94% of global deaths. - Children under
+five account for the majority of fatalities.
+
+WHO and Global Efforts Key global strategies include: - WHO Global
+Technical Strategy for Malaria (GTS) - Roll Back Malaria Partnership -
+Development of malaria vaccines like RTS,S/AS01 (Mosquirix) and
+R21/Matrix-M - Strengthening surveillance and early detection
+
+Conclusion Malaria remains a major global health problem, particularly
+in low-income countries. Continued prevention, timely diagnosis,
+effective treatment, and global cooperation are essential to reduce its
+burden and move toward eventual elimination.
