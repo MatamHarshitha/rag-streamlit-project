@@ -25,6 +25,10 @@ def vectorstore():
 )
     
     return vectorstore
+<<<<<<< HEAD
+=======
+
+>>>>>>> f87d671a3494ea0213b4c426a6390e401126535d
 
 
 
@@ -33,6 +37,10 @@ def create_vectorstore(chunks):
         chunks,
         OpenAIEmbeddings()
     )
+<<<<<<< HEAD
+=======
+
+>>>>>>> f87d671a3494ea0213b4c426a6390e401126535d
     
 
 
